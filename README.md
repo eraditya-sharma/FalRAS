@@ -6,3 +6,12 @@ The first test run has been successfully completed. The version two of this proj
 
 ### Testing Report 1
 ![Testing Report](https://user-images.githubusercontent.com/33201629/57250068-2ae1ea80-7064-11e9-8005-90263d0b67c3.JPG)
+
+
+### Interface Snippets
+
+#### Login Portal
+![Login Portal](https://user-images.githubusercontent.com/33201629/57250361-dc811b80-7064-11e9-841e-70b7f9e56a92.JPG)
+
+#### FaLRAS
+![FaLras](https://user-images.githubusercontent.com/33201629/57250362-dc811b80-7064-11e9-90d4-20d696abd579.JPG)
